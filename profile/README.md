@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to the Anthon Open Source Community Development Hub! But
-dont' bother staying for long. Here below is a list of useful resources
+don't bother staying for long. Here below is a list of useful resources
 available to you, about AOSC OS.
 
 ## For Users
