@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
 
-Welcome to the Anthon Open Source Community Development Hub! But
-don't bother staying for long. Here below is a list of useful resources
-available to you, about AOSC OS.
+Welcome to the Anthon Open Source Community Development Hub! We have provided below a list of useful links and resources to guide you through this GitHub organisation.
 
 ## For Users
 
